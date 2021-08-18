@@ -1,0 +1,25 @@
+.heading{
+    background-color: blueviolet;
+font-family:serif;
+color:lavender;
+width: 60%;
+}
+.list{
+ background-color: rgb(4, 0, 255);   
+ box-shadow: 5px 5px 5px rgb(84, 55, 246); 
+}
+.name{
+    background-color: rgb(4, 0, 255);  
+    box-shadow: 5px 5px 5px rgb(84, 55, 246); 
+}
+.para_tag{
+    font-family: fantasy;
+    box-shadow: 5px 5px 5px rgb(84, 55, 246); 
+    float: none;
+}
+canvas{
+    border-radius: 10px;
+    border: 3px dashed purple;
+    box-shadow: 5px 5px 5px rgb(84, 55, 246); 
+    margin-top: 150px;
+}
